@@ -9,4 +9,4 @@ Welcome to Columbia Quiz Bowl! Our meetings are usually Mondays and Wednesdays f
 
 ## Useful Links
 
-- [qbreader.org](https://qbreader.org) - an awesome study tool and database
+- [qbreader.org](https://www.qbreader.org) - an awesome study tool and database
